@@ -1,7 +1,6 @@
 # Parking Space Occupancy Detection using SVM
 
-A simple **machine learning model** built with **scikit-learn** and **scikit-image**  
-to detect whether a parking space is **empty** or **occupied by a car** from images.
+A simple **machine learning model** built with **scikit-learn** and **scikit-image** to detect whether a parking space is **empty** or **occupied by a car** from images.
 
 ---
 
